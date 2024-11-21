@@ -21,13 +21,14 @@ The project uses basic Python functionality with optional integration of third-p
 ---
 
 # Project Structure
-
+```plaintext
 project/
 |
 |-- project.py
 |-- test_project.py  
 |-- README.md
 |-- requirements.txt
+```
 
 
 ### Install Dependencies
