@@ -30,7 +30,6 @@ project/
 |-- requirements.txt
 ```
 
-
 ### Install Dependencies
 pip install tabulate
 
