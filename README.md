@@ -22,13 +22,12 @@ The project uses basic Python functionality with optional integration of third-p
 
 # Project Structure
 
-```mermaid
-graph TD;
-  A[habit-tracker] --> B[project.py]
-  A --> C[test_project.py]
-  A --> D[README.md]
-  A --> E[habit.json]
-  A --> F[requirements.txt]```
+project/
+|
+|-- project.py
+|-- test_project.py  
+|-- README.md
+|-- requirements.txt
 
 
 ### Install Dependencies
