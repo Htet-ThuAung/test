@@ -1,6 +1,6 @@
 # Habit Tracker
 
-A simple Python-based CLI application for tracking the habits. The application allows to:
+A simple Python-based CLI application for tracking habits. The application allows to:
 - Add new habits.
 - View existing habits.
 - Mark habits as completed.
@@ -28,7 +28,7 @@ graph TD;
   A --> C[test_project.py]
   A --> D[README.md]
   A --> E[habit.json]
-  A --> F[requirements.txt]
+  A --> F[requirements.txt]```
 
 
 ### Install Dependencies
