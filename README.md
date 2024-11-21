@@ -22,12 +22,13 @@ The project uses basic Python functionality with optional integration of third-p
 
 # Project Structure
 
-habit-tracker/
-│
-├── habit_tracker.py          # Main application file
-├── test_habit_tracker.py     # Tests for the application
-├── README.md                 # Project documentation
-└── requirements.txt          # Optional: List of dependencies
+```mermaid
+graph TD;
+  A[habit-tracker] --> B[project.py]
+  A --> C[test_project.py]
+  A --> D[README.md]
+  A --> E[habit.json]
+  A --> F[requirements.txt]
 
 
 ### Install Dependencies
