@@ -1,5 +1,6 @@
 # Habit Tracker
-
+#### Video Demo:
+#### Description:
 **Habit Tracker** is a Python-based CLI application designed to help users maintain their habits effectively. This tool provides a simple, interactive interface to add habits, track progress, and view complete tasks. Whether you're aiming to exercise daily, read weekly, or build other habits, this app supports you by keeping everything organized in one place.
 
 ---
