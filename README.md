@@ -10,7 +10,7 @@ The project uses basic Python functionality with optional integration of third-p
 
 ---
 
-### **Features**
+### Feature
 
 1. **Add Habits**: Add a new habit with name and frequency (daily, weekly, etc.).
 2. **View Habits**: Display a list of all habits along with their details and completed dates.
