@@ -49,14 +49,14 @@ project/
 ## Installation
 
 ### Install Dependencies
-**pip install -r requirements.txt**
+`pip install -r requirements.txt`
 
 
 ## Usage
 
 ### Run the program
 Execute the program using:
-**python project.py**
+`python project.py`
 
 ### Menu Options
 #### Adding a Habit
@@ -64,14 +64,14 @@ Execute the program using:
 - Enter the habit name and frequency(e.g., daily, weekly).
 
 #### Viewing Habits
-- Choose "View Habits" option to see a list of all your habits and their progress.
+- Choose the "View Habits" option to see a list of all your habits and their progress.
 
 #### Marking a Habit Complete
-- Choose "Mark Habit Complete" option and enter the habit name.
+- Choose the "Mark Habit Complete" option and enter the habit name.
 - The program will automatically record the current date as a completion data.
 
 #### Deleting a Habit
-- Choose "Delete Habit" option and enter the habit name to remove it from the list.
+- Choose the "Delete Habit" option and enter the habit name to remove it from the list.
 
 
 ## Testing
@@ -79,10 +79,10 @@ To ensure the program works as intended:
 
 ### Install `pytest`
 Install `pytest` is not already installed:
-**pip install pytest**
+`pip install pytest`
 
 ### Run the test case
-**pytest test_project.py**
+`pytest test_project.py`
 
 
 ### Sample Test Output
