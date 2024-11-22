@@ -7,18 +7,22 @@
 ## Features
 
 1. **Add Habits**
-Users can eaily create new habits by specifying a name and frequency(e.g., daily or weekly). For instance, you might add a habit like "Morning Exercise" with a daily frequency to track your fitness journey.
+
+Users can easily create new habits by specifying a name and frequency(e.g., daily or weekly). For instance, you might add a habit like "Morning Exercise" with a daily frequency to track your fitness journey.
 
 2. **View Habits**
+
 The app provides a clear, tabular display of all habits, including their name, frequency, and completion dates. This helps users quickly assess their progress.
 
 3. **Mark Habits as Complete**
+   
 User can mark habits as complete for the current day. The app records the completion date automatically, ensuring an accurate log of progress. For example, after completing "Read a book" today, the program updates the completion list with today's date.
 
 4. **Delete Habits**
 If a habit is no longer relevant, users can remove it from the tracker, keeping their list tidy.
 
 5. **User-Friendly Interface**
+   
 The interface uses the `tabulate` library to format output neatly, making it easy to nevigate and read.
 
 ---
